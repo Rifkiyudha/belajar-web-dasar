@@ -30,11 +30,11 @@ main {
 }
 
 .jumbotron {
-  background: url("../img/IMG_20210605_160201.jpg");
+  background: url("../img/gt.png");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center;
-  background-size: 1400px;
+  background-size: 1000px;
   padding: 240px 0 240px 0;
   text-align: center;
   color: #fff;
